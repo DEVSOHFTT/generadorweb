@@ -2,7 +2,7 @@
 
 Un potente script interactivo en Batch (`.bat`) para Windows que inicializa al instante arquitecturas web modernas y escalables. Olvídate de crear carpetas a mano o configurar Vite desde cero; este script hace todo el trabajo pesado por ti con una interfaz de terminal amigable y a prueba de errores.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Demo+del+Generador+en+Terminal) ## ✨ Características Principales
+✨ Características Principales
 
 * **🖥️ UI/UX en Terminal:** Menús interactivos y limpios. Olvídate de escribir; simplemente presiona la tecla de tu elección (R/A/M).
 * **⚡ Vite por Defecto:** Todos los proyectos se configuran automáticamente con Vite para un entorno de desarrollo ultrarrápido (HMR).
