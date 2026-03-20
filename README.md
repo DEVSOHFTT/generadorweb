@@ -43,8 +43,10 @@ Para sacarle el máximo provecho a este script, se recomienda tener instalado en
    npm run dev
 
 📂 Estructura Generada (Ejemplo React + TS)
+
 El script no solo crea archivos vacíos; genera código base comentado y estructurado:
 
+```text
 📁 mi-proyecto/
 ├── 📁 public/
 ├── 📁 src/
