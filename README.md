@@ -1,3 +1,6 @@
+Copia y pega este código en tu archivo README.md:
+
+Markdown
 # 🚀 Generador de Proyectos Web Élite
 
 Un potente script interactivo en Batch (`.bat`) para Windows que inicializa al instante arquitecturas web modernas y escalables. Olvídate de crear carpetas a mano o configurar Vite desde cero; este script hace todo el trabajo pesado por ti con una interfaz de terminal amigable y a prueba de errores.
@@ -38,3 +41,21 @@ Para sacarle el máximo provecho a este script, se recomienda tener instalado en
    ```bash
    cd nombre-de-tu-proyecto
    npm run dev
+
+📂 Estructura Generada (Ejemplo React + TS)
+El script no solo crea archivos vacíos; genera código base comentado y estructurado:
+
+📁 mi-proyecto/
+├── 📁 public/
+├── 📁 src/
+│   ├── 📁 components/
+│   │   └── 📄 App.tsx
+│   ├── 📁 pages/
+│   ├── 📁 styles/
+│   │   └── 📄 global.css
+│   └── 📄 main.tsx
+├── 📄 .gitignore
+├── 📄 index.html
+├── 📄 package.json
+├── 📄 tsconfig.json
+└── 📄 vite.config.ts
